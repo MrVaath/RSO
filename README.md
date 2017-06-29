@@ -18,8 +18,7 @@ A project created for the 'Distributed Operating Systems' course
 
 ## Image
 
-![img][img]
-[img]: https://github.com/MrVaath/RSO/uploads/img.png "RSO"
+![alt tag](https://github.com/MrVaath/RSO/blob/master/uploads/img.png)
 
 >*Language: PHP* <br>
 >*Bootstrap Framework: Flat UI* <br>
