@@ -1,7 +1,15 @@
 # Rozproszone Systemy Operacyjne
 *Authors: Patryk Wylegała*
 
-A project created for the 'Distributed Operating Systems' course
+A project created for the 'Distributed Operating Systems' course (Rozproszone Systemy Operacyjne - RSO)
+
+## Table of contents
+
+- [Functional](#functional)
+- [Cluster](#cluster)
+- [Image](#image)
+- [Support](#support)
+- [App information](#app-information)
 
 ## Functional
 
@@ -20,7 +28,18 @@ A project created for the 'Distributed Operating Systems' course
 
 ![alt tag](https://github.com/MrVaath/RSO/blob/master/uploads/img.png)
 
->*Language: PHP* <br>
->*Bootstrap Framework: Flat UI* <br>
->*Semester: Summer* <br>
->*Year: 2017*
+## Support
+
+Contact me via email
+
+> **pat.wylegala@gmail.com**
+
+## App information
+
+**Language**: _PHP_
+
+**Bootstrap Framework**: _Flat UI_
+
+**Semester**: _Summer_
+
+**Year**: _2017_
